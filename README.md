@@ -45,7 +45,7 @@ Hi, I'm Horlando Rafael!
 <p>
     <a href="https://github.com/Bouaskaoun"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
     <a href="https://github.com/Bouaskaoun"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
-    <a href="https://github.com/Bouaskaoun"><img alt="Dart" src="https://img.shields.io/badge/Dart%20-%23F7F7F7.svg?logo=dart&logoColor=white"></a>
+    <a href="https://github.com/Bouaskaoun"><img alt="Dart" src="https://img.shields.io/badge/Dart%20-%23111924.svg?logo=dart&logoColor=white"></a>
 
 ### 🧰 Frameworks and Libraries
 
