@@ -51,7 +51,7 @@ Hi, I'm Horlando Rafael!
 
 <p>
     <a href="https://github.com/Bouaskaoun"><img alt="React" src="https://img.shields.io/badge/React%20-%23D00000.svg?logo=React&logoColor=white"></a>
-    <a href="https://github.com/Bouaskaoun"><img alt="Angular" src="https://img.shields.io/badge/Angular%20-%23D00000.svg?logo=Angular&logoColor=white"></a>
+    <a href="https://github.com/Bouaskaoun"><img alt="Flutter" src="https://img.shields.io/badge/Flutter%20-%233F7BA6.svg?logo=Flutter&logoColor=white"></a>
     <a href="https://github.com/Bouaskaoun"><img alt="Spring" src="https://img.shields.io/badge/Spring%20Boot%20-%2334A853.svg?logo=Springboot&logoColor=white"></a>
     <a href="https://github.com/Bouaskaoun"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap%20-%23150458.svg?logo=Bootstrap&logoColor=white"></a>
 </p>
