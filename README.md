@@ -49,7 +49,7 @@ Hi, I'm Horlando Rafael!
 ### 🧰 Frameworks and Libraries
 
 <p>
-    <a href="https://github.com/Bouaskaoun"><img alt="Java" src="https://img.shields.io/badge/Java%20-%23D00000.svg?logo=Java&logoColor=white"></a>
+    <a href="https://github.com/Bouaskaoun"><img alt="React" src="https://img.shields.io/badge/React%20-%23D00000.svg?logo=ReactNative&logoColor=white"></a>
     <a href="https://github.com/Bouaskaoun"><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white"></a>
     <a href="https://github.com/Bouaskaoun"><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white"></a>
     <a href="https://github.com/Bouaskaoun"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
