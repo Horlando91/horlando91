@@ -22,9 +22,8 @@ Hi, I'm Horlando Rafael!
 <hr>
 
 <pre>
-💻 I am a self taught Full Stack Developer and a Machine Learning Developer
+💻 I am a self taught Full Stack Developer
 📚 I have a degree from University Miguel Hernández of Elche
-🌱 Learning about Computer Vision and Machine Learning stuff
 🌟 Main languages: JAVA, Python, Dart, JavaScript
 🚩 Interested in Full Stack Application development
 🤔 I’m currently open for: <b>An Intern</b> or a new <b>job opportunity</b>, this is <a href="https://drive.google.com/file/d/1OL-pYjC8jb3u3bbqLswQooZkah4ExeZf/view?usp=sharing" target="_blank">MY RESUME.</a>
@@ -70,8 +69,8 @@ Hi, I'm Horlando Rafael!
 <p>
     <a href="https://github.com/Bouaskaoun"><img alt="Colab" src="https://img.shields.io/badge/Colab-00b56a.svg?logo=google-colab&logoColor=white"></a>
     <a href="https://github.com/Bouaskaoun"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
-    <a href="https://github.com/Bouaskaoun"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?logo=google%20sheets&logoColor=white"></a>
-    <a href="https://github.com/Bouaskaoun"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?logo=Jupyter&logoColor=white"></a>
+    <a href="https://github.com/Bouaskaoun"><img alt="Net Beans " src="https://img.shields.io/badge/Net%20Beans%20-%233F333B.svg?logo=apachenetbeanside&logoColor=white"></a>
+    <a href="https://github.com/Bouaskaoun"><img alt="Eclipse" src="https://img.shields.io/badge/Eclipse%20-%23281E4E.svg?logo=eclipseide&logoColor=white"></a>
     <a href="https://github.com/Bouaskaoun"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
     <a href="https://github.com/Bouaskaoun"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
     <a href="https://github.com/Bouaskaoun"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
