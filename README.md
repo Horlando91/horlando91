@@ -59,7 +59,7 @@ Hi, I'm Horlando Rafael!
 ### 🗄️ Databases and Cloud Hosting
 
 <p>
-    <a href="https://github.com/horlando91"><img alt="Mysql" src ="https://img.shields.io/badge/Mysql-%23DD8A00.svg?logo=mysql&logoColor=white"></a>
+    <a href="https://github.com/horlando91"><img alt="Mysql" src ="https://img.shields.io/badge/Mysql-%234089AC.svg?logo=mysql&logoColor=white"></a>
     <a href="https://github.com/horlando91"><img alt="Postgresql" src ="https://img.shields.io/badge/Postgresql-%232F5E8D.svg?logo=postgresql&logoColor=white"></a>
     <a href="https://github.com/horlando91"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%23031A0E.svg?logo=mongodb&logoColor=white"></a>
     <a href="https://github.com/horlando91"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
