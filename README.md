@@ -6,9 +6,9 @@ Hi, I'm Horlando Rafael!
 </h1>
 <p align="center">
 	<a href="https://github.com/Horlando91">
-		<img src="https://komarev.com/ghpvc/?username=bouaskaoun&label=Profile%20views&color=0e75b6&style=flat" alt="horlando91" />
+		<img src="https://komarev.com/ghpvc/?username=horlando91&label=Profile%20views&color=0e75b6&style=flat" alt="horlando91" />
 	</a>
-	<a href="https://github.com/Horlando91">
+	<a href="https://github.com/horlando91">
 		<img src="https://img.shields.io/github/followers/horlando91?label=Followers" alt="horlando91" />
 	</a>
 </p>
@@ -34,7 +34,7 @@ Hi, I'm Horlando Rafael!
 <p align="center">
 	<a href="mailto:horlandorafaeli@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://www.linkedin.com/in/bouaskaoun/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-	<a href="https://github.com/Horlando91"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
+	<a href="https://github.com/horlando91"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
 ## 🛠️ My Favorite Tools
@@ -53,6 +53,7 @@ Hi, I'm Horlando Rafael!
     <a href="https://github.com/horlando91"><img alt="Flutter" src="https://img.shields.io/badge/Flutter%20-%233F7BA6.svg?logo=Flutter&logoColor=white"></a>
     <a href="https://github.com/horlando91"><img alt="Spring" src="https://img.shields.io/badge/Spring%20Boot%20-%2334A853.svg?logo=Springboot&logoColor=white"></a>
     <a href="https://github.com/horlando91"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap%20-%23150458.svg?logo=Bootstrap&logoColor=white"></a>
+    <a href="https://github.com/horlando91"><img alt="Laravel" src="https://img.shields.io/badge/Laravel%20-%23ED2F03.svg?logo=laravel&logoColor=white"></a>
 </p>
 
 ### 🗄️ Databases and Cloud Hosting
@@ -112,7 +113,7 @@ Hi, I'm Horlando Rafael!
 
 <p align="center">
 	<a href="https://github.com/horlando91">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bouaskaoun&langs_count=8&layout=compact" alt="horlando91">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=horlando91&langs_count=8&layout=compact" alt="horlando91">
 	</a>
 	<br/>
 <br/>
@@ -126,7 +127,7 @@ Hi, I'm Horlando Rafael!
 
 ## Let's Work on Your Project Together!
 
-If you have any questions about front-end web development, feel free to <a href="mailto:bouaskaoun.mohammed@gmail.com">contact me through email</a> me.
+If you have any questions about front-end web development, feel free to <a href="mailto:horlandorafaeli@gmail.com">contact me through email</a> me.
 
 You can hire me as a freelancer on <a href="https://www.fiverr.com">Fiverr</a> or <a href="https://www.linkedin.com/in/bouaskaoun/">LinkedIn</a> to deploy your machine learning project on web.
 
@@ -135,7 +136,7 @@ You can hire me as a freelancer on <a href="https://www.fiverr.com">Fiverr</a> o
 
 ## It's not perfect, isn't it?
 
-**<a href="https://github.com/Bouaskaoun"><img alt="Feedback" src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg"></a>**
+**<a href="https://github.com/horlando91"><img alt="Feedback" src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg"></a>**
 
 “I think it’s very important to have a feedback loop, where you’re constantly thinking about what you’ve done and how you could be doing it better.”
 – Elon Musk
@@ -146,6 +147,6 @@ You can hire me as a freelancer on <a href="https://www.fiverr.com">Fiverr</a> o
 
 ------
 
-[Bouaskaoun](https://github.com/horlando91)
+[Horlando91](https://github.com/horlando91)
 
-Last Edited on: 19/07/2022
+Last Edited on: 05/09/2025
