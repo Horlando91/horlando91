@@ -88,7 +88,7 @@ Hi, I'm Horlando Rafael!
 ## GitHub Stats
 
 <br/>
-<summary><b>⚡ Bouaskaoun's Stats</b></summary>
+<summary><b>⚡ Horlando's Stats</b></summary>
 <br/>
 <p align="center">
 	<a href="https://github.com/horlando91">
@@ -129,7 +129,7 @@ Hi, I'm Horlando Rafael!
 
 If you have any questions about front-end web development, feel free to <a href="mailto:horlandorafaeli@gmail.com">contact me through email</a> me.
 
-You can hire me as a freelancer on <a href="https://www.fiverr.com">Fiverr</a> or <a href="https://www.linkedin.com/in/bouaskaoun/">LinkedIn</a> to deploy your machine learning project on web.
+You can hire me as a freelancer on <a href="https://www.fiverr.com">Fiverr</a> or <a href="https://www.linkedin.com/in/horlando91/">LinkedIn</a> to deploy your machine learning project on web.
 
   </td>
   <td width="50%" valign="top">
@@ -149,4 +149,4 @@ You can hire me as a freelancer on <a href="https://www.fiverr.com">Fiverr</a> o
 
 [Horlando91](https://github.com/horlando91)
 
-Last Edited on: 05/09/2025
+Last Edited on: 05/21/2025
